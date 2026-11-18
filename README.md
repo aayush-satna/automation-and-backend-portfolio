@@ -1,6 +1,7 @@
 # Python Backend, Data Pipelines & Workflow Automation Portfolio
 
-***Aayush Agrawal*** — Python Backend & Data Engineer  
+# Python Backend, Data Pipelines & Workflow Automation Portfolio
+### Aayush Agrawal — Python Backend & Data Engineer
 Pune, India (Available for US/UK/EU overlap) | [LinkedIn](https://www.linkedin.com/in/aayush-agrawal-dev) | `aayush.satna94@gmail.com`
 
 I build reliable Python backends, automated ETL/scraping pipelines, real-time alert engines, and zero-maintenance internal business tools that eliminate manual bottlenecks.
@@ -46,4 +47,4 @@ I build reliable Python backends, automated ETL/scraping pipelines, real-time al
 * **API Integrations & Webhooks:** Connecting CRMs, payment gateways, Telegram/Slack bots, and internal databases.
 * **Internal Business Tools & Dashboards:** Fast, low-cost operational portals and automated reporting workflows.
 
-**Contact:** `aayush.satna94@gmail.com` | [LinkedIn](https://www.linkedin.com/in/aayush-agrawal-dev)
+*Open to fixed-price automation builds, custom data pipelines, and ongoing backend contracts.*
